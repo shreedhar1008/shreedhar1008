@@ -43,14 +43,6 @@ I am a passionate developer dedicated to building scalable real-world applicatio
 - Implemented Convolutional Neural Networks (CNN) to achieve high-accuracy image classification.
 - **Tech:** Python, TensorFlow/Keras, Jupyter Notebook.
 
----
-
-### 📈 GitHub Statistics
-![Shreedhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreedhar1008&show_icons=true&theme=dark&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreedhar1008&layout=compact&theme=dark&hide_border=false)
----
-
 ### 📫 Let's Connect!
 
 | Platform | Contact Details |
