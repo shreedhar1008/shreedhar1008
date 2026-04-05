@@ -14,7 +14,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=shreedhar1008&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/shreedhar1008?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20To-Internships and Full Time Jobs-success?style=flat-square&color=059669" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships-success?style=flat-square&color=059669" />
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange?style=flat-square" />
 </p>
 
@@ -24,22 +24,17 @@
 
 ## 👨‍💻 About Me
 
-```kotlin
-data class Developer(
-    val name: String     = "Shreedhar Shiragur",
-    val role: String     = "Aspiring Software Engineer",
-    val location: String = "Bengaluru, India 🇮🇳",
-    val focus: List<String> = listOf(
-        "Android Development (Kotlin + Jetpack Compose)",
-        "Full-Stack Web Development (React + TypeScript)",
-        "Machine Learning & AI Integration"
-    ),
-    val currentGoal: String = "Seeking Internship / Entry-Level Opportunities",
-    val funFact: String     = "I turn coffee ☕ into scalable apps 🚀"
-)
-```
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-> 🎯 I'm a passionate developer who bridges **mobile development** and **AI** through practical, data-driven projects. I love building things that matter.
+Hello! I'm **Shreedhar Shiragur**, a passionate developer from **Bengaluru, India 🇮🇳** dedicated to building scalable, real-world applications.
+
+- 📱 **Mobile Dev** — Kotlin & Jetpack Compose on Android
+- 💻 **Full-Stack** — React, TypeScript & modern web tech
+- 🤖 **AI/ML** — Bridging smart experiences with practical data science
+- 🎯 **Goal** — Actively seeking **Internship / Entry-Level** roles
+- ☕ **Fun Fact** — I turn coffee into scalable apps 🚀
+
+<br clear="right"/>
 
 ---
 
@@ -54,19 +49,19 @@ data class Developer(
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ### Mobile & Frontend
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Tools & Databases
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -154,16 +149,16 @@ Currently building exciting new projects at the intersection of **Android** and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreedhar1008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreedhar1008&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreedhar1008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreedhar1008&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreedhar1008&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shreedhar1008&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreedhar1008&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreedhar1008&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -171,7 +166,7 @@ Currently building exciting new projects at the intersection of **Android** and 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreedhar1008&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreedhar1008&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </div>
 
 ---
