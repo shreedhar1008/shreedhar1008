@@ -81,7 +81,7 @@ Hello! I'm **Shreedhar Shiragur**, a passionate developer from **Bengaluru, Indi
 <td width="50%" valign="top">
 
 ### 📊 StudyTrack AI
-[![Repo](https://img.shields.io/badge/GitHub-StudyTrack-7F52FF?style=flat-square&logo=github)](https://github.com/shreedhar1008/StudyTrack)
+[![Repo](https://img.shields.io/badge/GitHub-StudyTrack-7F52FF?style=flat-square&logo=github)](https://github.com/shreedhar1008/StudyTrack_Ai-Based-Student-Study-Habit-Recommender/tree/main)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
@@ -96,7 +96,7 @@ An **AI-driven recommendation engine** that analyzes student behavior patterns a
 <td width="50%" valign="top">
 
 ### ✈️ AI Trip Planner
-[![Repo](https://img.shields.io/badge/GitHub-AI--Trip--Planner-3178C6?style=flat-square&logo=github)](https://github.com/shreedhar1008/AI-Trip-Planner)
+[![Repo](https://img.shields.io/badge/GitHub-AI--Trip--Planner-3178C6?style=flat-square&logo=github)]([https://github.com/shreedhar1008/AI-Trip-Planner](https://github.com/shreedhar1008/AI-Trip-Planner))
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![API](https://img.shields.io/badge/-REST%20APIs-61DAFB?style=flat-square&logo=fastapi&logoColor=black)
 
@@ -112,8 +112,8 @@ A **smart itinerary generator** that automates travel planning through seamless 
 <tr>
 <td width="50%" valign="top">
 
-### 🍎 CNN Fruit Classifier
-[![Repo](https://img.shields.io/badge/GitHub-Fruit--Classification-FF6F00?style=flat-square&logo=github)](https://github.com/shreedhar1008/Fruit-Classification)
+### Fruit Classification Using CNN 🍎
+[![Repo](https://img.shields.io/badge/GitHub-Fruit--Classification-FF6F00?style=flat-square&logo=github)]([https://github.com/shreedhar1008/Fruit-Classification](https://github.com/shreedhar1008/Fruit-Classification-using-CNN))
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
