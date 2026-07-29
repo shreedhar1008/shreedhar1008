@@ -95,7 +95,7 @@ An **AI-driven recommendation engine** that analyzes student behavior patterns a
 </td>
 <td width="50%" valign="top">
 
-### 🌍 Voyage — AI Trip Planner
+### 🌍 Voyage-Agentic_Travel_Planner
 [![Repo](https://img.shields.io/badge/GitHub-Trip--Planner-181717?style=flat-square&logo=github)](https://github.com/shreedhar1008/Trip-Planner)
 [![Live](https://img.shields.io/badge/Live-Demo-3ECF8E?style=flat-square&logo=vercel&logoColor=white)](https://trip-planner-nine-sepia.vercel.app)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
