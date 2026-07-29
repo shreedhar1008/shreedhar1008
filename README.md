@@ -95,22 +95,28 @@ An **AI-driven recommendation engine** that analyzes student behavior patterns a
 </td>
 <td width="50%" valign="top">
 
-### ✈️ AI Trip Planner
-[![Repo](https://img.shields.io/badge/GitHub-AI--Trip--Planner-3178C6?style=flat-square&logo=github)]([https://github.com/shreedhar1008/AI-Trip-Planner](https://github.com/shreedhar1008/AI-Trip-Planner))
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![API](https://img.shields.io/badge/-REST%20APIs-61DAFB?style=flat-square&logo=fastapi&logoColor=black)
+<td width="50%" valign="top">
 
-A **smart itinerary generator** that automates travel planning through seamless multi-API integration and intelligent logic.
+### 🌍 Voyage — AI Trip Planner
+
+[![Repo](https://img.shields.io/badge/GitHub-Trip--Planner-181717?style=flat-square&logo=github)](https://github.com/shreedhar1008/Trip-Planner)
+[![Live](https://img.shields.io/badge/Live-Demo-3ECF8E?style=flat-square&logo=vercel&logoColor=white)](https://trip-planner-nine-sepia.vercel.app)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+A full-stack **AI travel planner** that turns a source, destination, budget, and
+interests into a complete day-by-day itinerary — places, hotels, maps, and costs,
+generated on the fly.
 
 **Key Highlights:**
-- 🗺️ Automated itinerary generation
-- 🔌 Multi-API integration layer
-- ⚡ Real-time travel data processing
+- 🤖 AI-generated multi-day itineraries via Google Gemini
+- 🗺️ Interactive Leaflet maps with real place coordinates
+- 🔐 JWT auth with saved trips, favorites, and profile management
+- 📱 Fully responsive, purpose-built mobile and desktop layouts
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### Fruit Classification Using CNN 🍎
 [![Repo](https://img.shields.io/badge/GitHub-Fruit--Classification-FF6F00?style=flat-square&logo=github)]([https://github.com/shreedhar1008/Fruit-Classification](https://github.com/shreedhar1008/Fruit-Classification-using-CNN))
