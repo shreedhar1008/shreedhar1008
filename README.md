@@ -153,7 +153,7 @@ Currently building exciting new projects at the intersection of **Android** and 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shreedhar1008&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shreedhar1008&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%2C%20Y&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 <div align="center">
