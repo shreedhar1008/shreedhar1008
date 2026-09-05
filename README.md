@@ -2,7 +2,7 @@
 
 Full-Stack & Backend Developer (Python / Node.js) — building production-deployed web applications with AI/LLM integration. B.E. Computer Science, 2026. Actively seeking Full-Stack, Backend, or Software Engineer roles.
 
-[LinkedIn](https://www.linkedin.com/in/shreedhar-shiragur/) · [Portfolio](https://shreedharshiragur.vercel.app/) · [Email](mailto:shreedharshiragur@gmail.com) · [Resume]([https://drive.google.com/file/d/1edpPf9gPCB5QQ9kwjeefqxJu2b56yuZk/view?usp=sharing](https://drive.google.com/file/d/1fALd6KwWZES01ouKnzDAxVVWMO757MKr/view?usp=sharing))
+[LinkedIn](https://www.linkedin.com/in/shreedhar-shiragur/) · [Portfolio](https://shreedharshiragur.vercel.app/) · [Email](mailto:shreedharshiragur@gmail.com) · [Resume](https://drive.google.com/file/d/1fALd6KwWZES01ouKnzDAxVVWMO757MKr/view?usp=sharing)
 
 ---
 
