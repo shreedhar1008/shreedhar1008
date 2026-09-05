@@ -1,201 +1,50 @@
-<div align="center">
+# Shreedhar Shiragur
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shreedhar%20Shiragur&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Mobile%20%7C%20Web%20%7C%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
+Full-Stack & Backend Developer (Python / Node.js) — building production-deployed web applications with AI/LLM integration. B.E. Computer Science, 2026. Actively seeking Full-Stack, Backend, or Software Engineer roles.
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Real-World+Applications+%F0%9F%9A%80;Android+Dev+with+Kotlin+%26+Jetpack+Compose+%F0%9F%93%B1;Full-Stack+%7C+React+%7C+TypeScript+%F0%9F%92%BB;AI+%2F+ML+Explorer+%F0%9F%A4%96;Open+to+Internships+%26+Entry+level+Roles+%F0%9F%8C%9F" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shreedhar1008&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shreedhar1008?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20To-Internships and Full Time Jobs-success?style=flat-square&color=059669" />
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange?style=flat-square" />
-</p>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/shreedhar-shiragur/) · [Portfolio](https://shreedharshiragur.vercel.app/) · [Email](mailto:shreedharshiragur@gmail.com) · [Resume](https://drive.google.com/file/d/1edpPf9gPCB5QQ9kwjeefqxJu2b56yuZk/view?usp=sharing)
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+I build end-to-end web applications — from database schema to deployed frontend — with Node.js/Express, React, and MongoDB, and I integrate LLM services (Google Gemini) into real product features rather than treating AI as a side experiment. I also work with Python/Flask on the backend and have hands-on experience with classical ML/deep learning (CNNs, LSTMs) from my final-year research project.
 
-Hello! I'm **Shreedhar Shiragur**, a passionate developer from **Bengaluru, India 🇮🇳** dedicated to building scalable, real-world applications.
+Currently: applying for Full-Stack, Backend, and Software Engineer roles, and sharpening data structures & algorithms daily.
 
-- 🤖 **AI/ML** — Bridging smart experiences with practical data science
-- 💻 **Full-Stack** — React, TypeScript & modern web tech
-- 📱 **Mobile Dev** — Kotlin & Jetpack Compose on Android
-- 🎯 **Goal** — Actively seeking **Internship / Entry-Level** roles
+## Tech Stack
 
-<br clear="right"/>
+**Languages:** Python · Java · JavaScript · SQL
 
----
+**Web & Backend:** React.js · Node.js · Express.js · Flask · REST APIs · JWT Authentication · HTML5 · CSS3
 
-## 🛠️ Tech Stack
+**Databases & Cloud:** MongoDB · MySQL · PostgreSQL · Firebase · GCP (Vertex AI, BigQuery, Kubernetes) · AWS
 
-<div align="center">
+**AI/ML:** TensorFlow · Keras · Scikit-learn · OpenCV · Google Gemini API · Prompt Engineering
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+**Tools:** Git · Docker · Linux · Postman · VS Code
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## Projects
 
-### Mobile & Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+### [Voyage — Agentic AI Travel Planner](https://github.com/shreedhar1008/Trip-Planner)
+Full-stack travel planner that turns a source, destination, budget, and interests into a day-by-day itinerary using Google Gemini with structured prompt engineering. Node.js/Express backend with JWT auth and MongoDB Atlas, React frontend, OpenStreetMap route visualization. Deployed on Vercel + Render.
+**Stack:** Node.js, Express, React, MongoDB, Google Gemini API · [Live demo](https://trip-planner-nine-sepia.vercel.app)
 
-### Tools & Databases
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+### [StudyTrack — AI Student Study Habit Recommender](https://github.com/shreedhar1008/StudyTrack_Ai-Based-Student-Study-Habit-Recommender)
+Hybrid ML pipeline (Random Forest classification + K-Means clustering) trained on 80,000+ student records to recommend personalized study habits, with a Flask REST API serving real-time predictions.
+**Stack:** Python, Scikit-learn, Flask
 
-</div>
+### [Fruit Classification using CNN](https://github.com/shreedhar1008/Fruit-Classification-using-CNN)
+Convolutional neural network for multi-class fruit image classification, built and documented end-to-end in a Jupyter notebook.
+**Stack:** TensorFlow, Keras
 
----
+## Currently Learning / Practicing
 
-## 🚀 Featured Projects
+- Data structures & algorithms (daily practice, interview-focused patterns)
+- Testing and deployment discipline on existing projects (adding proper test coverage, CI)
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
+## Get in Touch
 
-### 📊 StudyTrack AI
-[![Repo](https://img.shields.io/badge/GitHub-StudyTrack-7F52FF?style=flat-square&logo=github)](https://github.com/shreedhar1008/StudyTrack_Ai-Based-Student-Study-Habit-Recommender/tree/main)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+Open to Full-Stack, Backend, and Software Engineer opportunities — feel free to reach out directly.
 
-An **AI-driven recommendation engine** that analyzes student behavior patterns and delivers personalized study habit insights.
-
-**Key Highlights:**
-- 🧠 ML-based behavioral analysis engine
-- 📈 Personalized recommendation system
-- 📊 Data-driven insights dashboard
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 Voyage-Agentic_Travel_Planner
-[![Repo](https://img.shields.io/badge/GitHub-Trip--Planner-181717?style=flat-square&logo=github)](https://github.com/shreedhar1008/Trip-Planner)
-[![Live](https://img.shields.io/badge/Live-Demo-3ECF8E?style=flat-square&logo=vercel&logoColor=white)](https://trip-planner-nine-sepia.vercel.app)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-A full-stack **AI travel planner** that turns a source, destination, budget, and interests into a complete day-by-day itinerary with real places, hotels, and maps.
-
-**Key Highlights:**
-- 🤖 AI-generated multi-day itineraries via Google Gemini
-- 🗺️ Interactive maps with real place coordinates
-- 🔐 JWT auth with saved trips, favorites & profile management
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Fruit Classification Using CNN 🍎
-[![Repo](https://img.shields.io/badge/GitHub-Fruit--Classification-FF6F00?style=flat-square&logo=github)](https://github.com/shreedhar1008/Fruit-Classification-using-CNN)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-
-A **deep learning image classifier** implementing CNNs to achieve high-accuracy fruit detection and categorization.
-
-**Key Highlights:**
-- 🖼️ Convolutional Neural Network (CNN)
-- 🎯 High-accuracy image classification
-- 📓 Full Jupyter notebook walkthrough
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 More Coming Soon...
-![WIP](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
-
-Currently building exciting new projects at the intersection of **Android** and **AI**.
-
-- 📱 Jetpack Compose + ML Kit app
-- 🌐 Full-stack TypeScript project
-- 🤖 LLM-powered mobile assistant
-
-*Stay tuned — ⭐ star this profile to get notified!*
-
-</td>
-</tr>
-</table>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreedhar1008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreedhar1008&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shreedhar1008&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%2C%20Y&cache_seconds=1800" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreedhar1008&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreedhar1008&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreedhar-shiragur-0a8926291)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreedharshiragur@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreedhar1008)
-
-<br/>
-
-*💬 I'm always open to discussing new projects, creative ideas, or opportunities to be part of something amazing.*
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Philosophy
-
-*"The best way to predict the future is to **invent it**."*
-— Alan Kay
-
-<br/>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/shreedhar-shiragur/) · [shreedharshiragur@gmail.com](mailto:shreedharshiragur@gmail.com)
